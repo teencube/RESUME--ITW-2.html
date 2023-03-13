@@ -4,12 +4,16 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <header></header>
+  </header>
+
   <title>RESUME </title>
+  <link rel="stylesheet" href="styles.css\>
   <h1>TENDAI NCUBE</h1>
 
+
   <br>
-<p style width="40%">A manually inclined individual with 6 years of experience handling and maintaining technical equipment as well as working knowledge of physical IT infrastructure components, seeking a Datacenter Technician position with Microsoft to carry out cable installations, hardware installations, testing, and troubleshooting using standard datacenter processes. Coming with exceptional flexibility to work non-business hours or shifts that may include weekends and/or holidays.</p></header>
+<p style width="40%">A manually inclined individual with 6 years of experience handling and maintaining technical equipment as well as working knowledge of physical IT infrastructure components, seeking a Datacenter Technician position with Microsoft to carry out cable installations, hardware installations, testing, and troubleshooting using standard datacenter processes. Coming with exceptional flexibility to work non-business hours or shifts that may include weekends and/or holidays.</p>                </header>
+
 
 
 <br>
@@ -25,14 +29,18 @@
     <li><a href="resume.html">Expirience</a></li>
     <li><a href="resume.html">SKILLS</a></li>
   </ul>
-<section></section>
+  <DIv>
+<section>
   <h2>QUALIFICATION 1</h2>
 
   <pstyle width="35%">3+ years of experience with JavaScript, Java, Python, and C#
     Designed and launched internal Android App for employee hours tracking, reducing payroll processing timeline by 10 %
     Led legacy code refactoring project, reducing technical debt and enhancing documentation quality
     Graduated with honors with a Bachelors of Science in Software Development</pstyle>
+  </section>
+</DIv>
 
+<DIv>
     <h3>JOBS</h3>
 <ul>
 
@@ -41,7 +49,8 @@
   <li>Database administrator</li>
   <li>Computer Programmer</li>
   <li>Software test engineer</li>
-</ul</section>
+</ul>
+</DIv>
 
 <br>
 <h2>h2>RESPONSIBILITIES</h2>
