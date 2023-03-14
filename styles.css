@@ -1,24 +1,22 @@
 body{
-  background-color: hsla(271, 28%, 36%, 0.421);
+  background-color: hsla(271, 50%, 58%, 0.421);
   font-style: oblique;
-padding: 0%;
-margin: 0%;
+
 
 }
 header{
 color: blue;
-border-color: black;
+border-color: rgb(214, 158, 73);
 }
 h1{
   color: black;
   font-size: x-large;
   font-style: initial;
-  width: fit-content;
-  border: 4px solid chocolate;
+  
 }
 nav{
-  background-color: black;
-
+  background-color: blueviolet;
+  
 }
 h1{color: black;
 background-color: blue;
@@ -26,12 +24,7 @@ background-color: blue;
 h2{color: blue;
 font-size: larger;
 }
-div{
-  border: 0cap;
-  max-width: auto;
-  margin-right: 100%;
-}
 img{
-  border: radius 250px; ;
-  color: #000;
+  border-radius: 50%;
+  border:25pax solid black
 }

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </header>
+
+  <title>RESUME </title>
+  <link rel="stylesheet" href="styles.css\>
+  <h1>TENDAI NCUBE</h1>
+
+
+  <br>
+<p style width="40%">A manually inclined individual with 6 years of experience handling and maintaining technical equipment as well as working knowledge of physical IT infrastructure components, seeking a Datacenter Technician position with Microsoft to carry out cable installations, hardware installations, testing, and troubleshooting using standard datacenter processes. Coming with exceptional flexibility to work non-business hours or shifts that may include weekends and/or holidays.</p>                </header>
+
+
+
+<br>
+
+<img src="images/resume image.jpeg" alt="resume image">
+
+
+
+  <br>
+  <nav>C:\Users\tenda\OneDrive\Documents\GitHub\RESUME--ITW-2.html\resume.html</nav>
+  <ul>
+    <li><a href="resume.html">Education</a></li>
+    <li><a href="resume.html">Expirience</a></li>
+    <li><a href="resume.html">SKILLS</a></li>
+  </ul>
+  <DIv>
+<section>
+  <h2>QUALIFICATION 1</h2>
+
+  <pstyle width="35%">3+ years of experience with JavaScript, Java, Python, and C#
+    Designed and launched internal Android App for employee hours tracking, reducing payroll processing timeline by 10 %
+    Led legacy code refactoring project, reducing technical debt and enhancing documentation quality
+    Graduated with honors with a Bachelors of Science in Software Development</pstyle>
+  </section>
+</DIv>
+
+<DIv>
+    <h3>JOBS</h3>
+<ul>
+
+  <li>Web developer</li>
+  <li>Systems Analyst</li>
+  <li>Database administrator</li>
+  <li>Computer Programmer</li>
+  <li>Software test engineer</li>
+</ul>
+</DIv>
+
+<br>
+<h2>h2>RESPONSIBILITIES</h2>
+<article></article>
+<h2>h2>RESPONSIBILITIES</h2>
+<ULstyle width="35%">
+  <LI>Run tests withsoftware to identify any potential errors that may arise when used by consumers.</LI>
+  <li>I specialize in cloud-based technology that allows organizations to access their data from any location. </li>
+  <li>I  assess computer systems to predict changes that may occur. </li>
+</ULst
+
+<h>SKILLS</h>
+<olstyle width="35%">
+  <li> Mathematical aptitude Many programming languages (e.g. JavaScript, PHP, Python, etc.) require the use of formulas in order to perform more complex manipulations. ...</li>
+  <li>Problem solving skills ..</li>
+  <li> Programming language competencies ...</li>
+  <li> </li>
+</olstyle>
+<footer>
+<h1>Contact me at :<a href="tendaiincube774@gmail.com">tendaiincube774@gmail.com</a>/h1>
+  <br>
+
+
+  <a href="https://www.codespace.co.za"target=blank title=this gives Education information></a>
+  </footer>
+
+    
+    
+
+
+
+
+  
+</head>
+<body>
+
+  
+</body>
+</html>
